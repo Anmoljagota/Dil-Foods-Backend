@@ -200,6 +200,556 @@
           }
         ]
       },
+      {
+        "month": "March",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "April",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "may",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "june",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "July",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "August",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "September",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "October",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "November",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
+      {
+        "month": "December",
+        "total_visitors": "6500",
+        "expected": "6000",
+        "weekVisitors": [
+          {
+            "week": "First Week",
+            "days": [
+              { "day": "Monday", "visitors": "22" },
+              { "day": "Tuesday", "visitors": "32" },
+              { "day": "Wednesday", "visitors": "27" },
+              { "day": "Thursday", "visitors": "37" },
+              { "day": "Friday", "visitors": "42" },
+              { "day": "Saturday", "visitors": "52" },
+              { "day": "Sunday", "visitors": "47" }
+            ]
+          },
+          {
+            "week": "Second Week",
+            "days": [
+              { "day": "Monday", "visitors": "27" },
+              { "day": "Tuesday", "visitors": "37" },
+              { "day": "Wednesday", "visitors": "32" },
+              { "day": "Thursday", "visitors": "42" },
+              { "day": "Friday", "visitors": "47" },
+              { "day": "Saturday", "visitors": "57" },
+              { "day": "Sunday", "visitors": "52" }
+            ]
+          },
+          {
+            "week": "Third Week",
+            "days": [
+              { "day": "Monday", "visitors": "32" },
+              { "day": "Tuesday", "visitors": "42" },
+              { "day": "Wednesday", "visitors": "37" },
+              { "day": "Thursday", "visitors": "47" },
+              { "day": "Friday", "visitors": "52" },
+              { "day": "Saturday", "visitors": "62" },
+              { "day": "Sunday", "visitors": "57" }
+            ]
+          },
+          {
+            "week": "Fourth Week",
+            "days": [
+              { "day": "Monday", "visitors": "37" },
+              { "day": "Tuesday", "visitors": "47" },
+              { "day": "Wednesday", "visitors": "42" },
+              { "day": "Thursday", "visitors": "52" },
+              { "day": "Friday", "visitors": "57" },
+              { "day": "Saturday", "visitors": "67" },
+              { "day": "Sunday", "visitors": "62" }
+            ]
+          }
+        ]
+      },
       { "all visitors": "38000" }
     ],
     "sales": [
