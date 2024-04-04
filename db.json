@@ -98,10 +98,8 @@
     }
   ],
   "visitors": [
-    
-    
     {
-      "year":"2024",
+      "year": "2024",
       "month": "January",
       "total_visitors": "6000",
       "expected": "5500",
@@ -158,7 +156,7 @@
       "monthvisitor": "5432"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "February",
       "total_visitors": "6500",
       "expected": "6000",
@@ -215,7 +213,7 @@
       "monthvisitor": "5643"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "March",
       "total_visitors": "6500",
       "expected": "6000",
@@ -272,7 +270,7 @@
       "monthvisitor": "7887"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "April",
       "total_visitors": "6500",
       "expected": "6000",
@@ -329,7 +327,7 @@
       "monthvisitor": "3213"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "may",
       "total_visitors": "6500",
       "expected": "6000",
@@ -386,7 +384,7 @@
       "monthvisitor": "2345"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "june",
       "total_visitors": "6500",
       "expected": "6000",
@@ -443,7 +441,7 @@
       "monthvisitor": "5985"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "July",
       "total_visitors": "6500",
       "expected": "6000",
@@ -500,7 +498,7 @@
       "monthvisitor": "4521"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "August",
       "total_visitors": "6500",
       "expected": "6000",
@@ -557,7 +555,7 @@
       "monthvisitor": "7653"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "September",
       "total_visitors": "6500",
       "expected": "6000",
@@ -614,7 +612,7 @@
       "monthvisitor": "8765"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "October",
       "total_visitors": "6500",
       "expected": "6000",
@@ -671,7 +669,7 @@
       "monthvisitor": "6543"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "November",
       "total_visitors": "6500",
       "expected": "6000",
@@ -728,7 +726,7 @@
       "monthvisitor": "2132"
     },
     {
-      "year":"2024",
+      "year": "2024",
       "month": "December",
       "total_visitors": "6500",
       "expected": "6000",
@@ -788,6 +786,7 @@
   ],
   "sales": [
     {
+      "year": "2024",
       "month": "January",
       "sale": "6000",
       "expected": "5500",
@@ -843,9 +842,570 @@
       ]
     },
     {
+      "year": "2024",
       "month": "February",
       "sale": "6500",
       "expected": "6000",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "March",
+      "sale": "7656",
+      "expected": "9877",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "April",
+      "sale": "7656",
+      "expected": "8989",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "May",
+      "sale": "6570",
+      "expected": "6767",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "June",
+      "sale": "9876",
+      "expected": "9999",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "July",
+      "sale": "4344",
+      "expected": "5000",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "August",
+      "sale": "2321",
+      "expected": "3000",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "September",
+      "sale": "8765",
+      "expected": "9000",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "October",
+      "sale": "5432",
+      "expected": "5555",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "November",
+      "sale": "2121",
+      "expected": "3212",
+      "weeksale": [
+        {
+          "week": "First Week",
+          "days": [
+            { "day": "Monday", "sale": "22" },
+            { "day": "Tuesday", "sale": "32" },
+            { "day": "Wednesday", "sale": "27" },
+            { "day": "Thursday", "sale": "37" },
+            { "day": "Friday", "sale": "42" },
+            { "day": "Saturday", "sale": "52" },
+            { "day": "Sunday", "sale": "47" }
+          ]
+        },
+        {
+          "week": "Second Week",
+          "days": [
+            { "day": "Monday", "sale": "27" },
+            { "day": "Tuesday", "sale": "37" },
+            { "day": "Wednesday", "sale": "32" },
+            { "day": "Thursday", "sale": "42" },
+            { "day": "Friday", "sale": "47" },
+            { "day": "Saturday", "sale": "57" },
+            { "day": "Sunday", "sale": "52" }
+          ]
+        },
+        {
+          "week": "Third Week",
+          "days": [
+            { "day": "Monday", "sale": "32" },
+            { "day": "Tuesday", "sale": "42" },
+            { "day": "Wednesday", "sale": "37" },
+            { "day": "Thursday", "sale": "47" },
+            { "day": "Friday", "sale": "52" },
+            { "day": "Saturday", "sale": "62" },
+            { "day": "Sunday", "sale": "57" }
+          ]
+        },
+        {
+          "week": "Fourth Week",
+          "days": [
+            { "day": "Monday", "sale": "37" },
+            { "day": "Tuesday", "sale": "47" },
+            { "day": "Wednesday", "sale": "42" },
+            { "day": "Thursday", "sale": "52" },
+            { "day": "Friday", "sale": "57" },
+            { "day": "Saturday", "sale": "67" },
+            { "day": "Sunday", "sale": "62" }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "month": "December",
+      "sale": "4545",
+      "expected": "6543",
       "weeksale": [
         {
           "week": "First Week",
