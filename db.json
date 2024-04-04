@@ -98,7 +98,10 @@
     }
   ],
   "visitors": [
+    
+    
     {
+      "year":"2024",
       "month": "January",
       "total_visitors": "6000",
       "expected": "5500",
@@ -151,9 +154,11 @@
             { "day": "Sunday", "visitors": "60" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "5432"
     },
     {
+      "year":"2024",
       "month": "February",
       "total_visitors": "6500",
       "expected": "6000",
@@ -206,7 +211,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "5643"
     },
     {
       "month": "March",
@@ -261,7 +267,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "7887"
     },
     {
       "month": "April",
@@ -316,7 +323,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "3213"
     },
     {
       "month": "may",
@@ -371,7 +379,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "2345"
     },
     {
       "month": "june",
@@ -426,7 +435,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "5985"
     },
     {
       "month": "July",
@@ -481,7 +491,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "4521"
     },
     {
       "month": "August",
@@ -536,7 +547,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "7653"
     },
     {
       "month": "September",
@@ -591,7 +603,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "8765"
     },
     {
       "month": "October",
@@ -646,7 +659,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "6543"
     },
     {
       "month": "November",
@@ -701,7 +715,8 @@
             { "day": "Sunday", "visitors": "62" }
           ]
         }
-      ]
+      ],
+      "monthvisitor": "2132"
     },
     {
       "month": "December",
@@ -755,10 +770,11 @@
             { "day": "Saturday", "visitors": "67" },
             { "day": "Sunday", "visitors": "62" }
           ]
-        }
+        },
+        { "monthvisitor": "2000" }
       ]
     },
-    { "all visitors": "38000" }
+    { "year visitors": "38000" }
   ],
   "sales": [
     {
