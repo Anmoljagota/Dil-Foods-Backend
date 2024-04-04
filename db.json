@@ -1,31 +1,31 @@
 {
     "HeaderVisitors": [
       {
-        "title": "total_visitors",
+        "title": "Visits",
         "visitors": "2000",
         "target": "3486",
         "year": "2020"
       },
       {
-        "title": "total_visitors",
+        "title": "Visits",
         "visitors": "7670",
         "target": "6586",
         "year": "2021"
       },
       {
-        "title": "total_visitors",
+        "title": "Visits",
         "visitors": "5670",
         "target": "7486",
         "year": "2022"
       },
       {
-        "title": "total_visitors",
+        "title": "Visits",
         "visitors": "6670",
         "target": "5586",
         "year": "2023"
       },
       {
-        "title": "total_visitors",
+        "title": "Visits",
         "visitors": "6670",
         "target": "9876",
         "year": "2024"
