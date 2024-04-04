@@ -32,7 +32,9 @@
           "target": "9876",
           "year": "2024"
         }
-      ],
+      ]
+    },
+    {
       "HeaderOrders": [
         {
           "title": "orders",
@@ -58,7 +60,9 @@
           "target": "98767",
           "year": "2024"
         }
-      ],
+      ]
+    },
+    {
       "Headersales": [
         {
           "title": "sales",
