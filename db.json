@@ -1,100 +1,60 @@
 {
   "headerData": [
     {
-      "HeaderVisitors": [
-        {
-          "title": "Visits",
-          "visitors": "2000",
-          "target": "3486",
-          "year": "2020"
-        },
-        {
-          "title": "Visits",
-          "visitors": "7670",
-          "target": "6586",
-          "year": "2021"
-        },
-        {
-          "title": "Visits",
-          "visitors": "5670",
-          "target": "7486",
-          "year": "2022"
-        },
-        {
-          "title": "Visits",
-          "visitors": "6670",
-          "target": "5586",
-          "year": "2023"
-        },
-        {
-          "title": "Visits",
-          "visitors": "6670",
-          "target": "9876",
-          "year": "2024"
-        }
-      ]
+      "title": "Visits",
+      "total": "2000",
+      "target": "3486",
+      "year": "2022"
     },
     {
-      "HeaderOrders": [
-        {
-          "title": "orders",
-          "totalOrders": "6789",
-          "target": "8999",
-          "year": "2020"
-        },
-        {
-          "title": "orders",
-          "totalOrders": "7655",
-          "target": "10989",
-          "year": "2022"
-        },
-        {
-          "title": "orders",
-          "totalOrders": "5621",
-          "target": "6754",
-          "year": "2023"
-        },
-        {
-          "title": "orders",
-          "totalOrders": "7777",
-          "target": "98767",
-          "year": "2024"
-        }
-      ]
+      "title": "Visits",
+      "total": "7670",
+      "target": "6586",
+      "year": "2023"
     },
     {
-      "Headersales": [
-        {
-          "title": "sales",
-          "totalsale": "7777",
-          "target": "98767",
-          "year": "2020"
-        },
-        {
-          "title": "sales",
-          "totalsale": "5321",
-          "target": "7869",
-          "year": "2021"
-        },
-        {
-          "title": "sales",
-          "totalsale": "3219",
-          "target": "8990",
-          "year": "2022"
-        },
-        {
-          "title": "sales",
-          "totalsale": "9090",
-          "target": "9090",
-          "year": "2023"
-        },
-        {
-          "title": "sales",
-          "totalsale": "8788",
-          "target": "9999",
-          "year": "2024"
-        }
-      ]
+      "title": "Visits",
+      "total": "5670",
+      "target": "7486",
+      "year": "2024"
+    },
+
+    {
+      "title": "Orders",
+      "total": "2000",
+      "target": "3486",
+      "year": "2022"
+    },
+    {
+      "title": "Orders",
+      "total": "23454",
+      "target": "56096",
+      "year": "2023"
+    },
+    {
+      "title": "Visits",
+      "total": "65433",
+      "target": "74861",
+      "year": "2024"
+    },
+
+    {
+      "title": "Sales",
+      "total": "43211",
+      "target": "545453",
+      "year": "2022"
+    },
+    {
+      "title": "Sales",
+      "total": "34212",
+      "target": "45432",
+      "year": "2023"
+    },
+    {
+      "title": "Sales",
+      "total": "23456",
+      "target": "12321",
+      "year": "2024"
     }
   ],
   "visitors": [
