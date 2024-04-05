@@ -783,8 +783,6 @@
       ]
     },
 
-
-
     {
       "year": "2023",
       "month": "January",
@@ -1469,8 +1467,6 @@
         { "monthvisitor": "2000" }
       ]
     },
-
-
 
     {
       "year": "2022",
@@ -2157,10 +2153,6 @@
       ]
     },
 
-
-
-
-
     { "year visitors": "38000" }
   ],
   "sales": [
@@ -2837,8 +2829,6 @@
       ]
     },
 
-
-
     {
       "year": "2023",
       "month": "January",
@@ -3512,10 +3502,6 @@
       ]
     },
 
-
-
-
-
     {
       "year": "2022",
       "month": "January",
@@ -4188,8 +4174,52 @@
         }
       ]
     }
-
-
-
+  ],
+  "revenue": [
+    {
+      "year": "2024",
+      "January": "4000",
+      "February": "5500",
+      "March": "6700",
+      "April": "2200",
+      "May": "1200",
+      "June": "1800",
+      "July": "2100",
+      "August": "9000",
+      "September": "3098",
+      "Octomber": "5000",
+      "November": "4400",
+      "December": "1800"
+    },
+    {
+      "year": "2023",
+      "January": "4544",
+      "February": "456",
+      "March": "3214",
+      "April": "2200",
+      "May": "1200",
+      "June": "3423",
+      "July": "2100",
+      "August": "9000",
+      "September": "500",
+      "Octomber": "5000",
+      "November": "432",
+      "December": "4567"
+    },
+    {
+      "year": "2022",
+      "January": "5432",
+      "February": "5500",
+      "March": "6700",
+      "April": "3454",
+      "May": "321",
+      "June": "1800",
+      "July": "1234",
+      "August": "9000",
+      "September": "3212",
+      "Octomber": "5000",
+      "November": "321",
+      "December": "1800"
+    }
   ]
 }
