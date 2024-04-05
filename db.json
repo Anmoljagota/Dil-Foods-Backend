@@ -2020,33 +2020,242 @@
     },
     {
       "year": "2024",
-      "month": "February",
+      "month": "January",
       "week": "week2",
       "total_visitors": "11212"
     },
     {
       "year": "2024",
-      "month": "March",
+      "month": "January",
       "week": "week3",
       "total_visitors": "14567"
     },
+
     {
-      "year": "2023",
-      "month": "January",
+      "year": "2024",
+      "month": "February",
       "week": "week1",
-      "total_visitors": "12122"
+      "total_visitors": "12111"
     },
     {
       "year": "2024",
       "month": "February",
       "week": "week2",
-      "total_visitors": "43211"
+      "total_visitors": "12121"
+    },
+    {
+      "year": "2024",
+      "month": "February",
+      "week": "week3",
+      "total_visitors": "1211"
+    },
+    {
+      "year": "2024",
+      "month": "March",
+      "week": "week1",
+      "total_visitors": "12343"
+    },
+    {
+      "year": "2024",
+      "month": "March",
+      "week": "week2",
+      "total_visitors": "87656"
+    },
+    {
+      "year": "2024",
+      "month": "February",
+      "week": "week3",
+      "total_visitors": "1232"
+    },
+
+    {
+      "year": "2024",
+      "month": "March",
+      "week": "week1",
+      "total_visitors": "12121"
+    },
+    {
+      "year": "2024",
+      "month": "March",
+      "week": "week2",
+      "total_visitors": "4545"
     },
     {
       "year": "2024",
       "month": "March",
       "week": "week3",
+      "total_visitors": "5432"
+    },
+
+    {
+      "year": "2024",
+      "month": "April",
+      "week": "week1",
+      "total_visitors": "4323"
+    },
+    {
+      "year": "2024",
+      "month": "April",
+      "week": "week2",
+      "total_visitors": "3454"
+    },
+    {
+      "year": "2024",
+      "month": "April",
+      "week": "week3",
+      "total_visitors": "12345"
+    },
+
+    {
+      "year": "2024",
+      "month": "May",
+      "week": "week1",
+      "total_visitors": "12111"
+    },
+    {
+      "year": "2024",
+      "month": "May",
+      "week": "week2",
+      "total_visitors": "12121"
+    },
+    {
+      "year": "2024",
+      "month": "May",
+      "week": "week3",
+      "total_visitors": "1232"
+    },
+
+    {
+      "year": "2024",
+      "month": "June",
+      "week": "week1",
+      "total_visitors": "2123"
+    },
+    {
+      "year": "2024",
+      "month": "June",
+      "week": "week2",
+      "total_visitors": "2345"
+    },
+    {
+      "year": "2024",
+      "month": "June",
+      "week": "week3",
+      "total_visitors": "21232"
+    },
+
+    {
+      "year": "2024",
+      "month": "July",
+      "week": "week1",
+      "total_visitors": "12111"
+    },
+    {
+      "year": "2024",
+      "month": "July",
+      "week": "week2",
+      "total_visitors": "12121"
+    },
+    {
+      "year": "2024",
+      "month": "July",
+      "week": "week3",
+      "total_visitors": "1232"
+    },
+
+    {
+      "year": "2024",
+      "month": "August",
+      "week": "week1",
+      "total_visitors": "3232"
+    },
+    {
+      "year": "2024",
+      "month": "August",
+      "week": "week2",
+      "total_visitors": "4321"
+    },
+    {
+      "year": "2024",
+      "month": "August",
+      "week": "week3",
+      "total_visitors": "1212"
+    },
+
+    {
+      "year": "2024",
+      "month": "September",
+      "week": "week1",
+      "total_visitors": "8765"
+    },
+    {
+      "year": "2024",
+      "month": "September",
+      "week": "week2",
+      "total_visitors": "5444"
+    },
+    {
+      "year": "2024",
+      "month": "September",
+      "week": "week3",
       "total_visitors": "1234"
+    },
+
+    {
+      "year": "2024",
+      "month": "October",
+      "week": "week1",
+      "total_visitors": "8765"
+    },
+    {
+      "year": "2024",
+      "month": "October",
+      "week": "week2",
+      "total_visitors": "5444"
+    },
+    {
+      "year": "2024",
+      "month": "October",
+      "week": "week3",
+      "total_visitors": "1234"
+    },
+
+    {
+      "year": "2024",
+      "month": "November",
+      "week": "week1",
+      "total_visitors": "1212"
+    },
+    {
+      "year": "2024",
+      "month": "November",
+      "week": "week2",
+      "total_visitors": "3212"
+    },
+    {
+      "year": "2024",
+      "month": "November",
+      "week": "week3",
+      "total_visitors": "2345"
+    },
+
+    {
+      "year": "2024",
+      "month": "December",
+      "week": "week1",
+      "total_visitors": "1212"
+    },
+    {
+      "year": "2024",
+      "month": "December",
+      "week": "week2",
+      "total_visitors": "3212"
+    },
+    {
+      "year": "2024",
+      "month": "December",
+      "week": "week3",
+      "total_visitors": "2345"
     }
   ]
 }
